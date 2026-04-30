@@ -1,6 +1,4 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Saugat+Chapagain;IT+Student;Web+Developer)
-
 # 🏄‍♂️💻 **Saugat Chapagain**
 
 ## 👨‍💻 About Me
