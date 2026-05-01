@@ -8,6 +8,5 @@
 - 💻 Interested in web development and programming  
 - ⚡ Driven to learn, build, and innovate
 
-
-- one bite at a time🐍😄
+<p align="center"><i>one bite at a time 🐍😄</i></p>
 ![snake gif](https://github.com/ABChapagain/ABChapagain/blob/output/snake.svg)
