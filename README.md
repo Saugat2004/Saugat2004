@@ -9,5 +9,5 @@
 - ⚡ Driven to learn, build, and innovate
 
 
-one bite at a time🐍😄
+- one bite at a time🐍😄
 ![snake gif](https://github.com/ABChapagain/ABChapagain/blob/output/snake.svg)
